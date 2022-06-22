@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		86DC814528638C8100ED6DD7 /* PracticeSubModule in Resources */ = {isa = PBXBuildFile; fileRef = 86DC814428638C8100ED6DD7 /* PracticeSubModule */; };
 		86EA5AB92863869300C849B4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86EA5AB82863869300C849B4 /* AppDelegate.swift */; };
 		86EA5ABB2863869300C849B4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86EA5ABA2863869300C849B4 /* SceneDelegate.swift */; };
 		86EA5ABD2863869300C849B4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86EA5ABC2863869300C849B4 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		86DC814428638C8100ED6DD7 /* PracticeSubModule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = PracticeSubModule; sourceTree = SOURCE_ROOT; };
 		86EA5AB52863869300C849B4 /* PracticeMainModule.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PracticeMainModule.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		86EA5AB82863869300C849B4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		86EA5ABA2863869300C849B4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				86EA5AC12863869900C849B4 /* Assets.xcassets */,
 				86EA5AC32863869900C849B4 /* LaunchScreen.storyboard */,
 				86EA5AC62863869900C849B4 /* Info.plist */,
+				86DC814428638C8100ED6DD7 /* PracticeSubModule */,
 			);
 			path = PracticeMainModule;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				86DC814528638C8100ED6DD7 /* PracticeSubModule in Resources */,
 				86EA5AC52863869900C849B4 /* LaunchScreen.storyboard in Resources */,
 				86EA5AC22863869900C849B4 /* Assets.xcassets in Resources */,
 				86EA5AC02863869300C849B4 /* Main.storyboard in Resources */,
