@@ -1,3 +1,4 @@
 [submodule "PracticeMainModule/PracticeSubModule"]
 	path = PracticeMainModule/PracticeSubModule
 	url = https://github.com/saurabh091/PracticeSubModule.git
+	branch = feature/smallCities
